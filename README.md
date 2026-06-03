@@ -4,7 +4,7 @@ A multipage frontend development portfolio created for the **Portfolio 2** assig
 
 ## Live Demo
 
-[View Portfolio Website](link)
+[View Portfolio Website](https://portfolio2woj.netlify.app/)
 
 ## Featured Projects
 
